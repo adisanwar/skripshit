@@ -1,0 +1,43 @@
+https://warungcopy.id/tools/menulis-daftar-pustaka
+
+F., Azzahroh N., Nur F., dan Siti M.. (2023). Peningkatan Kepercayaan Diri Siswa Melalui Pembelajaran Theater Dan Metode Bermain Peran (Role Playing). Kudus: INNOVATIVE: Journal Of Social Science Research Volume 3 Nomor 4 Tahun 2023 Page 1370-1380.
+
+JKT48 Official Web Site. (t.t.-a). Anggota JKT48. JKT48 Official Web Site. https://jkt48.com/member/list?lang=id
+JKT48 Official Web Site. (t.t.-b). Schedule. JKT48 Official Web Site. https://jkt48.com/calendar/list/y/2023/m/11/d/1
+
+A. Herdiansah, R. I. Borman, and S. Maylinda, “Sistem Informasi Monitoring dan Reporting Quality
+Control Proses Laminating Berbasis Web Framework Laravel,” J. TEKNO KOMPAK, vol. 15, no. 2,
+pp. 13–24, 2021.
+
+[4] H. Suwandi, S. H. Mansyur, and U. M. Indonesia, “Implementation of A School Information System
+Using Rapid Application Development Method,” J. Tek. Inform., vol. 3, no. 6, pp. 1501–1512, 2022.
+
+[5] I. Nofikasari, T. Purwanto, and M. Marginingsih, “Penerapan Metode Rapid Application Development
+(RAD) Dalam Sistem Informasi Anak Putus Sekolah (Siap Sekolah),” Biner J. Ilm. Inform. dan
+Komput., vol. 1, no. 2, pp. 139–147, 2022.
+
+[6] A. Rahman, “Rapid Application Development Sistem Pembelajaran Daring Berbasis Android,”
+INTECH - Inform. Dan Teknol., vol. 1, no. 2, pp. 20–25, 2020.
+[7] N. Q. Assalma, “Sistem Informasi Pembayaran SPP Berbasis Web Dengan Metode RAD (Rapid
+Application Development) di SMP MBS Bumiayu,” J. Tek. Inform. dan Sist. Inf., vol. 2, no. 2, pp. 18–
+28, 2022.
+
+[6] A. Rahman, “Rapid Application Development Sistem Pembelajaran Daring Berbasis Android,”
+INTECH - Inform. Dan Teknol., vol. 1, no. 2, pp. 20–25, 2020.
+[7] N. Q. Assalma, “Sistem Informasi Pembayaran SPP Berbasis Web Dengan Metode RAD (Rapid
+Application Development) di SMP MBS Bumiayu,” J. Tek. Inform. dan Sist. Inf., vol. 2, no. 2, pp. 18–
+28, 2022.
+
+
+Untuk mengembangkan sistem informasi membutuhkan metode pengembangan sistem yang tepat, agar
+sistem yang dibangun sesuai dengan target dan kebutuhan yang telah ditetapkan [3]. Umumnya, pengguna sistem
+informasi menginginkan perangkat lunak yang pengembangannya cepat serta pengguna dilibatkan dalam
+pengembangan agar perangkat lunak yang dihasilkan sesuai dengan keinginannya. Metode pengembangan
+sistem yang dapat menghasilkan perangkat lunak cepat dan melibatkan pengguna salah satunya adalah Rapid
+Application Development. Rapid Application Development (RAD) merupakan pendekatan pengembangan
+perangkat lunak yang berfokus pada pemangku kepentingan (stakeholders) dan iterasi cepat dalam proses
+pengembangan [4]. Pendekatan ini dirancang untuk mempercepat waktu pengembangan dan merespons
+perubahan kebutuhan dengan lebih fleksibel [5]. RAD menekankan kolaborasi yang erat antara tim pengembang
+dan pengguna untuk memastikan bahwa aplikasi yang dibangun memenuhi kebutuhan bisnis dengan baik.
+
+
