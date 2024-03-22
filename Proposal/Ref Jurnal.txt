@@ -24,9 +24,12 @@ Application Development) di SMP MBS Bumiayu,” J. Tek. Inform. dan Sist. Inf., 
 
 [6] A. Rahman, “Rapid Application Development Sistem Pembelajaran Daring Berbasis Android,”
 INTECH - Inform. Dan Teknol., vol. 1, no. 2, pp. 20–25, 2020.
+
 [7] N. Q. Assalma, “Sistem Informasi Pembayaran SPP Berbasis Web Dengan Metode RAD (Rapid
 Application Development) di SMP MBS Bumiayu,” J. Tek. Inform. dan Sist. Inf., vol. 2, no. 2, pp. 18–
 28, 2022.
+
+R., Widi A., Asriyanik, dan Winda A.. (2020). Implementation of the Algorithm Fisher Yates Shuffle on Game Quiz Environment. Sukabumi: JITE, 4 (1) Juli 2020.
 
 
 Untuk mengembangkan sistem informasi membutuhkan metode pengembangan sistem yang tepat, agar
@@ -39,5 +42,35 @@ perangkat lunak yang berfokus pada pemangku kepentingan (stakeholders) dan itera
 pengembangan [4]. Pendekatan ini dirancang untuk mempercepat waktu pengembangan dan merespons
 perubahan kebutuhan dengan lebih fleksibel [5]. RAD menekankan kolaborasi yang erat antara tim pengembang
 dan pengguna untuk memastikan bahwa aplikasi yang dibangun memenuhi kebutuhan bisnis dengan baik.
+
+
+[Fisher-Yates Shuffle]
+import random
+
+def fisheryates_shuffle(arr, n, k=3):
+    selected_indices = []  # List to store selected indices
+    
+    for i in range(n):
+        if len(selected_indices) < k:
+            if random.random() < 0.5:  # Probability 0.5
+                selected_indices.append(i)
+        else:
+            break
+    
+    for i in range(n):
+        if i not in selected_indices:
+            arr[i] = None  # Mark non-selected indices as None
+            
+    selected_values = [val for val in arr if val is not None]  # Extract selected values
+    random.shuffle(selected_values)  # Shuffle selected values
+    
+    for i, val in zip(selected_indices, selected_values):
+        arr[i] = val  # Place selected values back into the original array
+    
+    return [val for val in arr if val is not None]  # Return only selected values
+
+arr = [54, 34, 7, 5, 78, 6, 2, 4, 2]
+n = len(arr)
+print(fisheryates_shuffle(arr, n))
 
 
