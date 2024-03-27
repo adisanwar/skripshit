@@ -1,0 +1,4 @@
+Aplikasi Pemesanan Online Tiket Bioskop Berbasis Mobile
+
+Topik pertama yang akan dibahas adalah jurnal dengan judul “1
+Rancang Bangun Aplikasi Pemesanan Online Tiket Bioskop Berbasis Mobile” yang ditulis oleh Rholand Deo Eka Putra tahun 2022. Latar belakang dari pembangunan aplikasi ini adalah penulis melihat di luar sana sangat banyak masyarakat yang sering bepergian keluar kota ataupun keluar negeri untuk melepaskan penat dan menikmati liburan di tengah padatnya aktivitas sehari-hari. Dari segala jenis transportasi yang ada, mayoritas masyarakat Indonesia memilih untuk menggunakan pesawat terbang, sebab lebih efektif, nyaman, dan tidak memakan waktu perjalanan yang lama. Walaupun harga pesawat tergolong mahal dibandingkan transportasi lain, namun pesawat tetap menjadi prioritas banyak orang dalam melakukan kegiatan travelling

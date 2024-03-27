@@ -31,6 +31,9 @@ Application Development) di SMP MBS Bumiayu,” J. Tek. Inform. dan Sist. Inf., 
 
 R., Widi A., Asriyanik, dan Winda A.. (2020). Implementation of the Algorithm Fisher Yates Shuffle on Game Quiz Environment. Sukabumi: JITE, 4 (1) Juli 2020.
 
+Rancang Bangun Aplikasi Pemesanan Online Tiket Bioskop Berbasis Mobile
+Rholand Deo Eka Putra 2022
+
 
 Untuk mengembangkan sistem informasi membutuhkan metode pengembangan sistem yang tepat, agar
 sistem yang dibangun sesuai dengan target dan kebutuhan yang telah ditetapkan [3]. Umumnya, pengguna sistem
