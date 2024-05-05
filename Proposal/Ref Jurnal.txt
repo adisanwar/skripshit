@@ -77,3 +77,6 @@ n = len(arr)
 print(fisheryates_shuffle(arr, n))
 
 
+judul, Masalah, variable, Batasan masalah, latar belakang
+
+
